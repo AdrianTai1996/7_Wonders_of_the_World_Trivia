@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">7 Wonders of the World Trivia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">InCorrect</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="question_china">The Great Wall was built under the rule of Emperor Qin Shi Huang</string>
+    <string name="question_petra">Explorer Johann Ludwig introduced Petra to the world in 1800</string>
+    <string name="question_brazil">Christ the Redeemer status is located in Chile</string>
+    <string name="question_machu">Machu Picchu was part of the UNESCO Heritage Site</string>
+    <string name="question_itza">The Chichen Itza was built by the Aztecs</string>
+    <string name="question_rome">The capacity of the Colosseum is around 50,000</string>
+
+    <string name="warning_text">PLEASE DO NOT CHEAT!</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong</string>
+    <string name="text_box">The quizzes here will be based on the 7 Wonders of the World! Have fun!</string>
+
+</resources>
